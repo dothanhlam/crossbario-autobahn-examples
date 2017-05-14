@@ -13,7 +13,8 @@ pip install crossbar
 ```
 ## Starting Crossbar
 ```shell
-crossbar start --cbdir ./router
+cd router
+crossbar start
 ```
 
 ## Running example
